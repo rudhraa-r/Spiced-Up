@@ -1,0 +1,228 @@
+.container{
+	border: none;
+	margin: none;
+	padding: none;
+}
+.header{
+	height: 80px;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background-color:#164360 ;
+	margin: none;
+	border: none;
+}
+.left-end{
+	position: relative;
+	float: left;
+	margin: none;
+}
+.logo-image{
+	padding: px;
+	position: relative;
+	height: 52px;
+	width :62px;
+	size: 40%;
+	padding: 8.7px 10px;
+}
+#logo-text{
+	color: rgb(210 226 220);
+	position: relative;
+	font-size: 20px;
+	border: none;
+	top: -16px;
+	left: 4px;
+}
+#nav{
+	position: relative;
+	float: right;
+
+	right: 10px;
+}
+.links{
+	
+	padding: 26px 1px;
+	display: inline-block;
+	position: relative;
+}
+a{
+	color: rgb(181 166 166);
+}
+
+.content{
+	background-image: url("C:/Users/Rudhraa R/Desktop/Spiced up/BGI/used.jpg");
+	position: absolute;
+	top: -14.4px;
+	right: 0px;
+	height: 900px;
+	width: 100%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: contain;
+}
+#quote{
+ 	color: rgb(255 255 255 / 60%);
+ 	text-align: center;
+ 	position: relative;
+ 	z-index: 1;
+ 	font-family: Haettenschweiler;
+	bottom: -464px;
+    font-size: 34px;
+    letter-spacing: 1.28px;
+}
+#quote-author{
+ 	color: rgb(255 255 255 / 60%);
+ 	text-align: right;
+ 	position: relative;
+ 	z-index: 3;
+ 	font-family: Haettenschweiler;
+	bottom: 19px;
+    right: 170px;
+    font-size: 34px;
+    letter-spacing: 1.28px;
+}
+.product{
+	position: relative;
+	top: 690px;
+	text-align: center;
+	font-family: cursive;
+	font-size: 35px;
+}
+
+span{
+	display: inline-block;
+	padding: 20px;
+	position: relative;
+	align-items: center;
+	margin: 20px;
+	font-size: 22px;
+}
+.menu{
+	display: block;
+	text-align: center;
+	font-size: 27px;
+	font-family: cursive;
+	position: relative;
+    top: 30px;
+    padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 1.3px;
+    width: fit-content;
+    left: 557px;
+    border-top-style: double;
+    border-top-width: 1.3px;
+    width: fit-content;
+    padding-top: 7px
+}
+.pizza img{
+	height: auto;
+	width: 210px;
+}
+.chicken-briyani img{
+	height: auto;
+	width: 200px;
+}
+.paratha img{
+	height: auto;
+	width: 200px;
+}
+.cake img{
+	height: auto;
+	width: 200px;
+}
+.gulab-jamun img{
+	height: auto;
+	width: 200px;
+}
+.salad img{
+	height: auto;
+	width: 200px;
+}
+.toast img{
+	height: auto;
+	width: 200px;
+}
+.curry img{
+	height: auto;
+	width: 200px;
+}
+.samosa img{
+	height: auto;
+	width: 200px;
+}
+.vadai img{
+	height: auto;
+	width: 200px;
+}
+.oreo-mousse img{
+	height: auto;
+	width: 200px;
+}
+.pavbhaji img{
+	height: auto;
+	width: 200px;
+}
+.main-dish img{
+	padding: 50px;
+	margin: 10px;
+	border: 2px double rgb(70 61 61);
+    border-radius: 15px;
+}
+.specials img{
+	padding: 50px;
+	margin: 10px;
+	border: 2px double rgb(70 61 61);
+    border-radius: 15px;
+}
+.desserts img{
+	padding: 50px;
+	margin: 10px;
+	border: 2px double rgb(70 61 61);
+    border-radius: 15px;
+}
+.extra img{
+	padding: 50px;
+	margin: 10px;
+	border: 2px double rgb(70 61 61);
+    border-radius: 15px;
+}
+hr {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+}
+.prod{
+	padding-bottom: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 1.3px;
+    width: fit-content;
+    position: relative;
+    left: 557px;
+}
+.prod hr{
+	width: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+}
+.order-form{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 700px;
+	padding: 35px;
+	margin: 20px;
+	color: white;
+}
+button {
+  background-color: #164360;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+}

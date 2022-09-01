@@ -1,0 +1,22 @@
+*Spiced Up
+
+*Stage:noob , 27/8/22
+
+*Ideas:
+
+-to make a e-com website like swiggy/zomato but for a single restaurant.
+-Name: Spiced up
+-Using html, css, jotform
+-Header -> logo on the left , name on the bottom of the logo
+	  -> nav bar on the right -> Home, Products, Orders,Contact Us, About
+	  -> Dark shade of blue with white or light coloured text
+
+-Body ->Has a title text ( restaurant name ) with a quote at the bottom
+	->background image 
+	->pics of some food
+	->Scroll down to see the product
+	->Products with name, price , details
+	->form is incorp either in the web or outside (under thoughts)
+	->very light colour like a shade of almond or like badam milk
+
+
